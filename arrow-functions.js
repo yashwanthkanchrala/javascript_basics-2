@@ -1,3 +1,5 @@
+"use strict";
+
 const calcage3 = (birthyear) => 2045 - birthyear;
 const age3 = calcage3(1996);
 console.log(age3);
