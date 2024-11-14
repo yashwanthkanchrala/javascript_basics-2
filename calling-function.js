@@ -13,3 +13,5 @@ function fruitProcessor(apples, mango) {
   return juice;
 }
 console.log(fruitProcessor(2, 4));
+
+//finished

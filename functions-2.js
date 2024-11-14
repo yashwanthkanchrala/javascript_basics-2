@@ -14,3 +14,5 @@ const calcage2 = function (birthyear) {
 };
 const age2 = calcage2(1996);
 console.log(age2);
+
+//finished

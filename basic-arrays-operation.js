@@ -23,3 +23,5 @@ console.log(friend.indexOf("sai"));
 console.log(friend.indexOf("jjnk"));
 console.log(friend.includes("sai"));
 console.log(friend.includes("jjnk"));
+
+//finished

@@ -23,3 +23,5 @@ const array = [firstName, 20 + 16, firstName + " " + "yashwanth", friends];
 console.log(array);
 
 console.log(array.length);
+
+//finished
